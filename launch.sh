@@ -6,6 +6,7 @@ npm install
 cd ..
 rm -r evolution
 git clone https://github.com/iandeboisblanc/evolution
+cd evolution
 npm install
 cd ..
 npm run build
